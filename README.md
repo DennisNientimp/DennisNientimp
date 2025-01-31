@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @DennisNientimp
-- 👀 I’m interested in Social Psychology and Data science
-- 🌱 I’m currently learning R Statistics and HRI
-- 💞️ I’m looking to collaborate on Science
 - 📫 How to reach me harrynientimp@gmail.com
 
 <!---
